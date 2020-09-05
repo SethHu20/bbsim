@@ -7,7 +7,7 @@ version 1.0, 2020-09-05
 by SethHu#2508, special thanks to by gfred#6558
 
 
-Usage: python bbsim.py
+    Usage: python bbsim.py
 
 command = for each run, the script will run the command once and reads from an
 output file "ch.nd.txt", commands should have a format of:
